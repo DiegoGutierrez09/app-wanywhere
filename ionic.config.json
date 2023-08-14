@@ -1,0 +1,7 @@
+{
+  "name": "wanywhere-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
